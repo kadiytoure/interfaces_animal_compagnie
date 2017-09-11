@@ -1,0 +1,25 @@
+{
+  "name": "interfaces_animal_compagnie",
+  "version": "0.0.1",
+  "description": "initiation to interfaces with an exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/interfaces_animal_compagnie.git"
+  },
+  "keywords": [
+    "interfaces"
+  ],
+  "author": "kadiy_simplon tourekadiy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/interfaces_animal_compagnie/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/interfaces_animal_compagnie#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
